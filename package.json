@@ -1,0 +1,24 @@
+{
+  "name": "holamundo.js",
+  "version": "1.0.0",
+  "description": "Hola mundo en texto plano usando http teniendo nuestra maquina desarrollo como servidor",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judiRdz/holahttp.git"
+  },
+  "keywords": [
+    "holamundo",
+    "http",
+    "nodejs"
+  ],
+  "author": "Perla Judith Rodriguez Salinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judiRdz/holahttp/issues"
+  },
+  "homepage": "https://github.com/judiRdz/holahttp#readme"
+}
